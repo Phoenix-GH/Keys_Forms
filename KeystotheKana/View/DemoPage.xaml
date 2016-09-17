@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="KeystotheKana.DemoPage">
+	<ContentPage.Content>
+		<StackLayout Spacing="0" Padding="0">
+			<ContentView BackgroundColor="Navy" HeightRequest="60" Padding="16,0">
+				<Label Text="TreeView Demo" TextColor="White" Font="Bold, 24" VerticalOptions="Center"/>
+			</ContentView>
+			<ContentView VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="White">
+				<ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" IsClippedToBounds="True">
+
+					
+				
+					<!-- TODO: get this scenario working again -->
+<!--					<KeystotheKana:TreeNodeView BackgroundColor="Blue">
+						<KeystotheKana:TreeNodeView BackgroundColor="Green">
+							<KeystotheKana:TreeNodeView BackgroundColor="Blue" HeightRequest="100"/>
+							<higheKeystotheKananergy:TreeNodeView BackgroundColor="Teal"/>
+							<KeystotheKana:TreeNodeView BackgroundColor="Aqua"/>
+						</KeystotheKana:TreeNodeView>
+						<KeystotheKana:TreeNodeView BackgroundColor="Yellow" IsExpanded="False">
+							<KeystotheKana:TreeNodeView BackgroundColor="Gray"/>
+							<KeystotheKana:TreeNodeView BackgroundColor="Black"/>
+							<KeystotheKana:TreeNodeView BackgroundColor="Blue"/>
+						</KeystotheKana:TreeNodeView>
+						<KeystotheKana:TreeNodeView BackgroundColor="Green">
+							<KeystotheKana:TreeNodeView BackgroundColor="Blue"/>
+							<KeystotheKana:TreeNodeView BackgroundColor="Teal"/>
+							<KeystotheKana:TreeNodeView BackgroundColor="Aqua"/>
+						</KeystotheKana:TreeNodeView>
+						<KeystotheKana:TreeNodeView BackgroundColor="Yellow" IsExpanded="False">
+							<KeystotheKana:TreeNodeView BackgroundColor="Gray"/>
+							<KeystotheKana:TreeNodeView BackgroundColor="Black"/>
+							<KeystotheKana:TreeNodeView BackgroundColor="Blue"/>
+						</KeystotheKana:TreeNodeView>
+					</KeystotheKana:TreeNodeView>-->
+				</ScrollView>
+			</ContentView>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

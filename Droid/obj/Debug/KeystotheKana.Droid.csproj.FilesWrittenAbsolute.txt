@@ -1,0 +1,29 @@
+/Users/123/Downloads/KeystotheKana 2/Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Volumes/Untitled 2/KeystotheKana 2/Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/FormsViewGroup.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/ExifLib.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Xamarin.Forms.Labs.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/KeystotheKana.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/KeystotheKana.dll.mdb
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/StoreRating.Forms.Plugin.Abstractions.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Refractored.Xam.Settings.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Debug/Refractored.Xam.Settings.Abstractions.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/FormsViewGroup.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/ExifLib.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Xamarin.Forms.Labs.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/KeystotheKana.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/KeystotheKana.dll.mdb
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/StoreRating.Forms.Plugin.Abstractions.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Refractored.Xam.Settings.dll
+/Volumes/Untitled 2/KeystotheKana/Droid/bin/Debug/Refractored.Xam.Settings.Abstractions.dll

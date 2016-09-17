@@ -1,0 +1,34 @@
+ipaD
+1
+0.9.1 0.3.1
++Info.plist
++KeystotheKana.iOS
++MonoTouchDebugConfiguration.txt
++_CodeSignature/CodeResources
++archived-expanded-entitlements.xcent
++embedded.mobileprovision
++libI18N.CJK.dll.dylib
++libI18N.dll.dylib
++libKeystotheKana.dll.dylib
++libKeystotheKana.iOS.exe.dylib
++libMono.Dynamic.Interpreter.dll.dylib
++libRefractored.Xam.Settings.Abstractions.dll.dylib
++libRefractored.Xam.Settings.dll.dylib
++libStoreRating.Forms.Plugin.Abstractions.dll.dylib
++libSystem.Core.dll.dylib
++libSystem.Net.Http.dll.dylib
++libSystem.Runtime.Serialization.dll.dylib
++libSystem.ServiceModel.Internals.dll.dylib
++libSystem.Xml.dll.dylib
++libSystem.dll.dylib
++libXamarin.Forms.Core.dll.dylib
++libXamarin.Forms.Platform.iOS.dll.dylib
++libXamarin.iOS.dll.dylib
++libmono-profiler-log.dylib
++libmonosgen-2.0.dylib
++libmscorlib.dll.dylib
+xEOF
+#CreateSparseIPA UUID: 107BDA6E-62BA-3D88-9B19-1E2BE67824D8
+#Bundle id: com.keystojapanese.keystothekana
+#Old bundle version: 0.9.1 0.3.1
+#New bundle version: 0.9.1 0.3.1

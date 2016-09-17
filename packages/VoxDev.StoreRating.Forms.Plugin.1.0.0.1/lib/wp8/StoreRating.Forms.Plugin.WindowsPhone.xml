@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StoreRating.Forms.Plugin.WindowsPhone</name>
+    </assembly>
+    <members>
+        <member name="T:StoreRating.Forms.Plugin.WindowsPhone.RatingService">
+            <summary>
+            Windows native store/marketplace control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.WindowsPhone.RatingService.ShowStore(System.String,System.Boolean)">
+            <summary>
+            Windows Open the native store/marketplace control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.WindowsPhone.RatingService.Init">
+            <summary>
+            Windows dummy initialisation
+            </summary>
+        </member>
+        <member name="T:StoreRating.Forms.Plugin.WindowsPhone.SendMailService">
+            <summary>
+            Windows native email control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.WindowsPhone.SendMailService.ShowDraft(System.String,System.String,System.String[],System.String[],System.String[])">
+            <summary>
+            Windows Open the native email control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.WindowsPhone.SendMailService.Init">
+            <summary>
+            Windows dummy initialisation
+            </summary>
+        </member>
+    </members>
+</doc>

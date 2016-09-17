@@ -1,0 +1,230 @@
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~ipad.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~ipad.nib/runtime.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~iphone.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~iphone.nib/runtime.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib/runtime.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib/runtime.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~ipad.storyboardc/Info-8.0+.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~ipad.storyboardc/Info.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~iphone.storyboardc/Info-8.0+.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~iphone.storyboardc/Info.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/asset-manifest.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-60@3x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-Small@3x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-Small-40@3x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-60@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-72.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-72@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-76.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Icon-76@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Default.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Default@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/Default-568h@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/uncollapse.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/collapse.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/hira_sources.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/kata_sources.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/Resources/Sources/hira_sources.png
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/KeystotheKana.iOS.exe.mdb
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/KeystotheKana.iOS.exe
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/KeystotheKana.iOS.exe
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/KeystotheKana.iOS.exe.mdb
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/Refractored.Xam.Settings.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/Refractored.Xam.Settings.Abstractions.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/StoreRating.Forms.Plugin.Abstractions.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/KeystotheKana.dll
+/Users/123/Downloads/KeystotheKana 2/iOS/bin/iPhoneSimulator/Release/KeystotheKana.dll.mdb
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~ipad.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~ipad.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~iphone.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~iphone.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~ipad.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~ipad.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~iphone.nib/objects-8.0+.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~iphone.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~ipad.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~iphone.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib/objects.nib
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~ipad.storyboardc/Info-8.0+.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~ipad.storyboardc/Info.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~iphone.storyboardc/Info-8.0+.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~iphone.storyboardc/Info.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-800-667h@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-700@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-700-568h@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-700-Portrait~ipad.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-700-Landscape~ipad.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-700-Portrait@2x~ipad.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-700-Landscape@2x~ipad.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-568h@2x.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-Portrait~ipad.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-Landscape~ipad.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-Portrait@2x~ipad.png
+/Users/123/Downloads/KeystotheKana 2/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-1-Landscape@2x~ipad.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~ipad.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~ipad.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~iphone.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/9-view-10~iphone.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~ipad.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~ipad.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~iphone.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch.storyboardc/UIViewController-9~iphone.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~ipad.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~ipad.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~iphone.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-X5k-f2-b5h~iphone.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib/objects-8.0+.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib/objects.nib
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~ipad.storyboardc/Info-8.0+.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~ipad.storyboardc/Info.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~iphone.storyboardc/Info-8.0+.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen~iphone.storyboardc/Info.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~ipad.storyboardc/Info-8.0+.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~ipad.storyboardc/Info.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~iphone.storyboardc/Info-8.0+.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/Launch~iphone.storyboardc/Info.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/actool/asset-manifest.plist
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-60@3x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-Small@3x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-Small-40@3x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon@2x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-60@2x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-72.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-72@2x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-76.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-76@2x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/uncollapse.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/collapse.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/hira_sources.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/kata_sources.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/あ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ア.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/い.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/イ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/う.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ウ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/え.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/エ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/お.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/オ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/か.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/カ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/き.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/キ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/く.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ク.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/け.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ケ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/こ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/コ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/さ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/サ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/し.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/シ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/す.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ス.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/せ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/セ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/そ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ソ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/た.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/タ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ち.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/チ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/つ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ツ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/て.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/テ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/と.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ト.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/な.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ナ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/に.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ニ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ヌ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ね.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ネ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/の.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ハ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ヒ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/フ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ヘ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ホ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/マ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ミ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ム.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/メ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/モ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ヤ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ユ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ら.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ラ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/り.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/リ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/る.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ル.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/れ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/レ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ろ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ワ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/を.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ヲ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ん.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ン.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ひ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ふ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/へ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ほ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ま.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/み.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/め.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/も.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/や.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ゆ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/よ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ヨ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ロ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/わ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ぬ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/む.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/ノ.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/characters/は.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/Icon-83.5@2x.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/writing.png
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Resources/Sources/hira_sources.png
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/KeystotheKana.iOS.exe.mdb
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/KeystotheKana.iOS.exe
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/KeystotheKana.iOS.exe
+/Users/song/Keys/iOS/obj/iPhoneSimulator/Release/KeystotheKana.iOS.exe.mdb
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Refractored.Xam.Settings.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Refractored.Xam.Settings.Abstractions.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/StoreRating.Forms.Plugin.Abstractions.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/Xamarin.InAppPurchase-Unified.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/KeystotheKana.dll
+/Users/song/Keys/iOS/bin/iPhoneSimulator/Release/KeystotheKana.dll.mdb

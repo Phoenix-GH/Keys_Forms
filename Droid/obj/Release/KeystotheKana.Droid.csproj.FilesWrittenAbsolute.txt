@@ -1,0 +1,15 @@
+/Users/123/Downloads/KeystotheKana 2/Droid/obj/Release/MonoAndroid,Version=v5.1.AssemblyAttribute.cs
+/Volumes/Untitled 2/KeystotheKana 2/Droid/obj/Release/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Xamarin.Forms.Platform.Android.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/FormsViewGroup.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Xamarin.Forms.Core.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Xamarin.Forms.Xaml.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Xamarin.Forms.Platform.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Xamarin.Android.Support.v4.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/ExifLib.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Xamarin.Forms.Labs.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/KeystotheKana.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/KeystotheKana.dll.mdb
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/StoreRating.Forms.Plugin.Abstractions.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Refractored.Xam.Settings.dll
+/Volumes/Untitled 2/KeystotheKana 2/Droid/bin/Release/Refractored.Xam.Settings.Abstractions.dll

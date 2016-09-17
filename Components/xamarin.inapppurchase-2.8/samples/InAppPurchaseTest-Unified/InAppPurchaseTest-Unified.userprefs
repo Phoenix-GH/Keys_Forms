@@ -1,0 +1,41 @@
+﻿<Properties StartupItem="InAppPurchaseTest-Unified/InAppPurchaseTest-Unified.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../iOS/EntryRenderer.cs">
+    <Files>
+      <File FileName="../../../../iOS/EntryRenderer.cs" Line="25" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InAppPurchaseTest-Unified" expanded="True">
+            <Node name="InAppPurchaseTest-Unified" expanded="True" />
+          </Node>
+          <Node name="KeystotheKana" expanded="True">
+            <Node name="KeystotheKana" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="System" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="KanaCard" expanded="True" />
+                <Node name="StudyCard" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="KeystotheKana.iOS" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="BaseUrl_iOS.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Data/Xamarin/KeystotheKana/iOS/Resources/ImageCellRenderer.cs" line="14" column="3" />
+      <Breakpoint file="/KeystotheKana 2/KeystotheKana/View/StudyCard/TranKata.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

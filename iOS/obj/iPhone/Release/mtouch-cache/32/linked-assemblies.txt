@@ -1,0 +1,16 @@
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/KeystotheKana.iOS.exe
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/KeystotheKana.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Refractored.Xam.Settings.Abstractions.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/StoreRating.Forms.Plugin.Abstractions.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Xml.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Core.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.ServiceModel.Internals.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Refractored.Xam.Settings.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/song/Keys/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll

@@ -1,0 +1,125 @@
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.vkata.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.vh.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.trankata.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.settings.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.rate.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.lmixed.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.lkata.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.lhira.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.ktk2.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.ktk.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.katasource.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.kataglo.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.kata.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.intro.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.info.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.hs.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.hiraglo.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.gco.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.fu.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.flag.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.eye.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.error.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.eckata.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.ec.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.book.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.Sources.hira_sources.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.Sources.kata_sources.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.studySchedule.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.logo.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Rate KK.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-About KK.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Settings.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL-Mixed.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL-Katakana.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL-Hiragana.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Writing.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Reading.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GCO.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GTTC.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-JPW.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.writing.png
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Welcome.png
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/Resources/Sources/hira_sources.png
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/KeystotheKana.dll.mdb
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/KeystotheKana.dll
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.dll
+/Users/andyjohansson/Keys2/KeystotheKana/obj/Debug/KeystotheKana.dll.mdb
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/Xamarin.Forms.Core.dll
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/Refractored.Xam.Settings.dll
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/Refractored.Xam.Settings.Abstractions.dll
+/Users/andyjohansson/Keys2/KeystotheKana/bin/Debug/StoreRating.Forms.Plugin.Abstractions.dll
+/Users/song/Keys/KeystotheKana/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.vkata.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.vh.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.trankata.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.settings.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.rate.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.lmixed.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.lkata.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.lhira.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.ktk2.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.ktk.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.katasource.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.kataglo.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.kata.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.intro.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.info.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.hs.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.hiraglo.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.gco.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.fu.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.flag.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.eye.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.error.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.eckata.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.ec.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.book.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.Sources.hira_sources.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.Sources.kata_sources.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.studySchedule.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.logo.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Rate KK.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-About KK.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Settings.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL-Mixed.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL-Katakana.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL-Hiragana.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GL.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Writing.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Reading.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GCO.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-GTTC.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-JPW.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.writing.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Welcome.png
+/Users/song/Keys/KeystotheKana/bin/Debug/Resources/Sources/hira_sources.png
+/Users/song/Keys/KeystotheKana/bin/Debug/KeystotheKana.dll.mdb
+/Users/song/Keys/KeystotheKana/bin/Debug/KeystotheKana.dll
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.dll
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.dll.mdb
+/Users/song/Keys/KeystotheKana/bin/Debug/Xamarin.Forms.Core.dll
+/Users/song/Keys/KeystotheKana/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/song/Keys/KeystotheKana/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/song/Keys/KeystotheKana/bin/Debug/Refractored.Xam.Settings.dll
+/Users/song/Keys/KeystotheKana/bin/Debug/Refractored.Xam.Settings.Abstractions.dll
+/Users/song/Keys/KeystotheKana/bin/Debug/StoreRating.Forms.Plugin.Abstractions.dll
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Overview2.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Basic Hiragana.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Basic Katakana.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Dakuten Hiragana.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Dakuten Katakana.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Easily Conf Hira.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Easily Conf Kata.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Hira Examples List.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Hiragana Course.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Hiragana Sources.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Kata Examples List.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Katakana Course.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Katakana Sources.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Transcr Katakana.png
+/Users/song/Keys/KeystotheKana/obj/Debug/KeystotheKana.Resources.favicon.Menu icon-Wall Chart.png

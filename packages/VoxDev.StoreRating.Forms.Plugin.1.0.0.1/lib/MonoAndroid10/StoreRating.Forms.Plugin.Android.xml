@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StoreRating.Forms.Plugin.Android</name>
+    </assembly>
+    <members>
+        <member name="T:StoreRating.Forms.Plugin.Droid.RatingService">
+            <summary>
+            Android native store/marketplace control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Droid.RatingService.ShowStore(System.String,System.Boolean)">
+            <summary>
+            Android Open the native store/marketplace control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Droid.RatingService.Init">
+            <summary>
+            Android dummy initialisation
+            </summary>
+        </member>
+        <member name="T:StoreRating.Forms.Plugin.Droid.SendMailService">
+            <summary>
+            Android native email control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Droid.SendMailService.ShowDraft(System.String,System.String,System.String[],System.String[],System.String[])">
+            <summary>
+            Android Open the native email control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Droid.SendMailService.Init">
+            <summary>
+            Android dummy initialisation
+            </summary>
+        </member>
+    </members>
+</doc>

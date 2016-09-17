@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="iOS/KeystotheKana.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="KeystotheKana/Menus/GLookupMenu.cs" Line="8" Column="30" />
+      <File FileName="KeystotheKana/Menus/HiraMenu.cs" Line="1" Column="1" />
+      <File FileName="KeystotheKana/System/Setting.cs" Line="1" Column="1" />
+      <File FileName="KeystotheKana/System/Terms.cs" Line="1" Column="1" />
+      <File FileName="KeystotheKana/View/Basic/Intro.cs" Line="1" Column="1" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="iOS/EntryRenderer.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/Resources/Introduction.html" Line="1" Column="1" />
+      <File FileName="iOS/Resources/EULA-Apple.htm" Line="1276" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

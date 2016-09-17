@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StoreRating.Forms.Plugin.iOS</name>
+    </assembly>
+    <members>
+        <member name="T:StoreRating.Forms.Plugin.iOS.RatingService">
+            <summary>
+            iOS native store / rating service
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.iOS.RatingService.ShowStore(System.String,System.Boolean)">
+            <summary>
+            iOS Open the native email control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.iOS.RatingService.Init">
+            <summary>
+            iOS dummy initialisation
+            </summary>
+        </member>
+        <member name="T:StoreRating.Forms.Plugin.iOS.SendMailService">
+            <summary>
+            iOS native email control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.iOS.SendMailService.ShowDraft(System.String,System.String,System.String[],System.String[],System.String[])">
+            <summary>
+            iOS Open the native email control
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.iOS.SendMailService.Init">
+            <summary>
+            iOS dummy initialisation
+            </summary>
+        </member>
+    </members>
+</doc>

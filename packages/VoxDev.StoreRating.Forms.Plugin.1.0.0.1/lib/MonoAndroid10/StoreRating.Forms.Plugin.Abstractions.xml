@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StoreRating.Forms.Plugin.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:StoreRating.Forms.Plugin.Abstractions.Helpers.Settings">
+            <summary>
+            This is the Settings static class that can be used in your Core solution or in any
+            of your client applications. All settings are laid out the same exact way with getters
+            and setters. 
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.Helpers.Settings.GeneralSettings">
+            <summary>
+            General Settings
+            </summary>
+        </member>
+        <member name="T:StoreRating.Forms.Plugin.Abstractions.IRatingService">
+            <summary>
+            Interface for leaving a native rating
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Abstractions.IRatingService.ShowStore(System.String,System.Boolean)">
+            <summary>
+            Open the native store / marketplace
+            </summary>
+        </member>
+        <member name="T:StoreRating.Forms.Plugin.Abstractions.ISendMailService">
+            <summary>
+            Interface for sending native email
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Abstractions.ISendMailService.ShowDraft(System.String,System.String,System.String[],System.String[],System.String[])">
+            <summary>
+            Open the native email control
+            </summary>
+        </member>
+        <member name="T:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl">
+            <summary>
+            StoreRating Interface
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.#ctor">
+            <summary>
+            Constructor for StoreRatingControl
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.ShowRating">
+            <summary>
+            Open the ShowRatingControl
+            </summary>
+        </member>
+        <member name="M:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.IncUsage">
+            <summary>
+            Increment the counter for the number of times the app is used
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.AppName">
+            <summary>
+            Your application name
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.AppID">
+            <summary>
+            iOS application ID from iTunes Connect
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.IsAmazon">
+            <summary>
+            Set for Amazon store (Android only)
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.RatingMessageTitle">
+            <summary>
+            Rating message title text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.RatingMessage">
+            <summary>
+            Rating message text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.RatingCancelText">
+            <summary>
+            Rating message cancel button text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.RatingRemindText">
+            <summary>
+            Rating message remind later button text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.RateText">
+            <summary>
+            Rating message rate it now button text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.FeedbackMessageTitle">
+            <summary>
+            Feedback message title text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.FeedbackMessage">
+            <summary>
+            Feedback message
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.FeedbackCancelText">
+            <summary>
+            Feedback message cancel button text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.FeedbackText">
+            <summary>
+            Feedback message give feedback button text
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.FeedbackEmail">
+            <summary>
+            Feedback email address
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.UsesBeforeRating">
+            <summary>
+            Number of application uses before rating message appears
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.DaysBeforeRating">
+            <summary>
+            Number of days from first use before rating message appears
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.DaysBeforeReminder">
+            <summary>
+            Number of days after remind later button click before rating message appears
+            </summary>
+        </member>
+        <member name="P:StoreRating.Forms.Plugin.Abstractions.StoreRatingControl.Preview">
+            <summary>
+            Override condition to show rating message (for testing purposes)
+            </summary>
+        </member>
+    </members>
+</doc>
